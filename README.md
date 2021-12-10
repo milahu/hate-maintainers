@@ -43,8 +43,8 @@ we say
 
 this is a "game" they play, and we always have the choice
 
-* do we join their game
-* do we refuse to play their game
+* do we join their game (in the hope to win, cos we have the better reasons)
+* do we refuse to play their game (cos its an unfair game, cos we lose 80% of the time)
 
 what would bender do? [start a new project, with blackjack and hookers](https://www.youtube.com/watch?v=-94qrgxH35M#title=Bender%20-%20Blackjack%20and%20Hookers)
 
@@ -130,6 +130,23 @@ there, every wrong decision has real-world effects (loss of money)
 
 in "fun projects", people are more ready to waste energy (ignore potential improvements, ignore potential problems),  
 cos the real-world effects are less visible
+
+## stupid troll or smart troll
+
+some people see the world in only one dimension (black white thinking),  
+so naturally, they corelate trolls and stupidity ("all trolls are stupid")
+
+personality psychology has a strong preference for two-factor models (four color thinking).  
+also in test theory, we have four values:
+
+1. true positive
+2. false positive
+3. true negative
+4. false negative
+
+these four values are produced by coupling a prediction ("before") with a verification ("after")
+
+https://en.wikipedia.org/wiki/Gold_standard_(test)
 
 ## similar projects
 
