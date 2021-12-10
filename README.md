@@ -86,6 +86,9 @@ laziness is a popular excuse to reject patches (what kids these days call "pull 
 lets say they are exactly half of all humans.  
 so, if you have a village of 144 people, then 72 people are conservative.
 
+if you say "they are too many", then you probably mean [overpopulation](https://www.youtube.com/watch?v=WC5z4LV7dCY#title=A%20Perfect%20Circle%20-%20Let's%20Have%20A%20War)
+which can only be solved by [rapid depopulation](https://www.youtube.com/watch?v=HGG0Nq3BwqQ#title=Delete%20The%20Garbage.%20World%20Cure.%20RD9%20Virus.%20The%20Brothers%20Grimsby%202016) (aka "mass murder")
+
 ## he who must not be named
 
 https://en.wikipedia.org/wiki/Lord_Voldemort
@@ -103,4 +106,4 @@ https://en.wikipedia.org/wiki/Lord_Voldemort
 
 * [hate-typescript.md](https://gist.github.com/amcdnl/b52e9dd11850eeb8de8f#file-hate-typescript-md)
 * https://github.com/milahu/alchi my organization theory, in case someone actually wants to solve these fundamental problems
-
+* https://github.com/samdark/opensource-hate shows some "low effort trolls" (the stupid haters, tourette syndrome)
