@@ -102,6 +102,16 @@ https://en.wikipedia.org/wiki/Lord_Voldemort
 * who will completely fuck your life if you talk bad about him?
 * who enforces censorship of "hate speech" on all platforms? (except [gab.com](https://news.gab.com/2021/12/02/gab-is-not-for-sale/) and some .onion domains)
 
+## both are right
+
+or at least, both "feel" right in their predictions,  
+and only real-life experiments can reveal the truth = who was right = who had the right prediction
+
+this is the problem of the judgement of solomon:  
+king solomon assumes that only one is right ...  
+some see this as "wisdom" of a king,  
+others prefer to call this "a simple solution for simple minds"
+
 ## similar projects
 
 * [hate-typescript.md](https://gist.github.com/amcdnl/b52e9dd11850eeb8de8f#file-hate-typescript-md)
