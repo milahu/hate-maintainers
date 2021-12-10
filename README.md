@@ -39,6 +39,15 @@ we say
 * mutual completion
 * conjunctio oppositorum
 
+## to play or not to play
+
+this is a "game" they play, and we always have the choice
+
+* do we join their game
+* do we refuse to play their game
+
+what would bender do? [start a new project, with blackjack and hookers](https://www.youtube.com/watch?v=-94qrgxH35M#title=Bender%20-%20Blackjack%20and%20Hookers)
+
 ## everyone feels right
 
 all this behavior has its logic, everyone feels he is right,  
@@ -111,6 +120,16 @@ this is the problem of the judgement of solomon:
 king solomon assumes that only one is right ...  
 some see this as "wisdom" of a king,  
 others prefer to call this "a simple solution for simple minds"
+
+## quo bono
+
+when two argue, a third wins
+
+commercial projects win, cos they are generally better organized than "fun projects".  
+there, every wrong decision has real-world effects (loss of money)
+
+in "fun projects", people are more ready to waste energy (ignore potential improvements, ignore potential problems),  
+cos the real-world effects are less visible
 
 ## similar projects
 
