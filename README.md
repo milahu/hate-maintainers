@@ -93,7 +93,7 @@ laziness is a popular excuse to reject patches (what kids these days call "pull 
 
 "they" are not a minority, but also not a majority.  
 lets say they are exactly half of all humans.  
-so, if you have a village of 144 people, then 72 people are conservative.
+so, if you have [a village of 144 people](https://github.com/milahu/alchi/blob/master/src/images/dunbar-number--natural-hierarchy--base-twelve-system--natural-coordinate-system.svg), then 72 people are conservative.
 
 if you say "they are too many", then you probably mean [overpopulation](https://www.youtube.com/watch?v=WC5z4LV7dCY#title=A%20Perfect%20Circle%20-%20Let's%20Have%20A%20War)
 which can only be solved by [rapid depopulation](https://www.youtube.com/watch?v=HGG0Nq3BwqQ#title=Delete%20The%20Garbage.%20World%20Cure.%20RD9%20Virus.%20The%20Brothers%20Grimsby%202016) (aka "mass murder")
