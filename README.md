@@ -86,7 +86,7 @@ laziness is a popular excuse to reject patches (what kids these days call "pull 
 
 ## rich hearts wear poor coats
 
-* only criminals must hide in a sheepskin
+* only criminals must hide in sheepskins
 * only destroyers must be polite
 
 ## how many
@@ -120,6 +120,15 @@ this is the problem of the judgement of solomon:
 king solomon assumes that only one is right ...  
 some see this as "wisdom" of a king,  
 others prefer to call this "a simple solution for simple minds"
+
+## to merge or not to merge
+
+* conservative: needs strong reasons to merge a patch
+  * do we really need this? -> merge
+  * has it features? -> merge
+* liberal: needs strong reasons to NOT merge a patch
+  * does this break anything? -> dont merge
+  * has it bugs? -> dont merge
 
 ## quo bono
 
