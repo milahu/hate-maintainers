@@ -130,6 +130,28 @@ others prefer to call this "a simple solution for simple minds"
   * does this break anything? -> dont merge
   * has it bugs? -> dont merge
 
+## active or passive
+
+> Bias for Action
+>
+> Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking. 
+>
+> [amazon principles](https://www.amazon.jobs/en/principles) ([via](https://github.com/ksindi/managers-playbook))
+
+= release early, allow to revoke/rollback
+
+## insult self or insult others
+
+> Earn Trust
+>
+> Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.
+>
+> [amazon principles](https://www.amazon.jobs/en/principles) ([via](https://github.com/ksindi/managers-playbook))
+
+= bias for element water (insult self, polite, charming)
+
+= bias against element fire (insult others, flamer, heretic)
+
 ## quo bono
 
 when two argue, a third wins
